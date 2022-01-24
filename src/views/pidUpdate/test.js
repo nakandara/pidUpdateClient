@@ -1,0 +1,1 @@
+{view1.rows.length > 0 ? <p>has sizeid</p> : <p>no size id</p>}
